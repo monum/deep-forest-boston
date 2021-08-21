@@ -8,5 +8,5 @@ The ideal outcome of this project is:
  
 2) The creation of a simple web interface for the Parks Department to upload new aerial imagery for analysis
 
-3) The ability for the PBoston arks Department to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
+3) The ability for the Parks Department of Boston to generate a list of statistics on tree counts to ensure that it continues to plants trees in an equitable manner across the city.
 
